@@ -1,3 +1,4 @@
 discord.py==2.3.2
+aiohttp
 databases[asyncpg]==0.6.2
 asyncpg==0.27.0
